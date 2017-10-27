@@ -65,7 +65,7 @@ public class Log {
 
   @Override
   public String toString() {
-    return "Book{" +
+    return "Log{" +
         "id='" + id + '\'' +
         ", country='" + country + '\'' +
         ", date='" + date + '\'' +
